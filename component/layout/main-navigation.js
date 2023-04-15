@@ -12,7 +12,7 @@ const MainNavigation = () => {
             <nav>
                 <ul>
                     <li>
-                        <Link href="/contact">Contact</Link>
+                        <Link href="/contact">Add Invoice</Link>
                     </li>
                 </ul>
             </nav>
